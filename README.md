@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Saksham Solanki!](saksham2105.github.io/portfolio/) 
+## Hi <img src="https://github.com/saksham2105/saksham2105/blob/main/Hi.gif" width="29px">, I'm [Saksham Solanki!](saksham2105.github.io/portfolio/) 
  
  
 
