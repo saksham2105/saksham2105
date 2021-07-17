@@ -27,7 +27,7 @@
 
 - :telescope: I'm currently working as a Software Engineer at HashedIN;
 - :hourglass_flowing_sand:Working on a Project [Codify](https://github.com/saksham2105/codify) and practicing DSA more and more;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: solankisaksham1998@gmail.com;
 <br><br><br><br>
 
@@ -37,8 +37,3 @@
 
 <br><br><br><br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=saksham2105&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham2105&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-----
-Credit: [saksham2105](https://github.com/saksham2105)
-
-Last Edited on: 23/09/2020
