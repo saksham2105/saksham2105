@@ -8,16 +8,16 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saksham's Dev" width="26"/>
 </a>
 <a href="https://twitter.com/ankitwarbhe">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Saksham Solanki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
-  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/saksham-solanki-248691174/">
+  <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankit.warbhe/">
+<a href="https://www.instagram.com/capable_saksham_/">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://devfolio.co/@ankitwarbhe/">
-  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
+<a href="https://saksham2105.github.io/portfolio/">
+  <img align="left" alt="Saksham's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
 </a><br><br>
 
 
@@ -25,7 +25,7 @@
 
 
 
-- :telescope: I'm currently studying BTech in CSE 💻;
+- :telescope: I'm currently working as an Software Engineer at HashedIN Technologies 💻;
 - :hourglass_flowing_sand: Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: ankitwarbheofficial@gmail.com;
