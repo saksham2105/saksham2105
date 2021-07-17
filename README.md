@@ -7,7 +7,7 @@
  <a href="https://github.com/saksham2105">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saksham's Dev" width="26"/>
 </a>
-<a href="https://twitter.com/ankitwarbhe">
+<a href="https://twitter.com/fiend_op">
   <img align="left" alt="Saksham Solanki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/saksham-solanki-248691174/">
