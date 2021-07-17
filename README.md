@@ -1,10 +1,6 @@
 ## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Saksham Solanki!](https://saksham2105.github.io/portfolio/) 
  
  
- ![Twitter Follow](https://img.shields.io/twitter/follow/ankitwarbhe?style=social)
-
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
-
  <a href="https://dev.to/ankitwarbhe">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
 </a>
