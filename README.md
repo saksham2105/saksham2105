@@ -14,7 +14,7 @@
   <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/capable_saksham_/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Saksham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://saksham2105.github.io/portfolio/">
   <img align="left" alt="Saksham's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
@@ -25,7 +25,8 @@
 
 
 
-- :telescope: I'm currently working as a Software Engineer at HashedIN;
+- :telescope: I'm currently working as a Software Engineer at MobiKwik in Payments Team;
+I've worked on many big projects including health care service corporation Diginext App
 - :hourglass_flowing_sand:Working on a Project [Codify](https://github.com/saksham2105/codify) and practicing DSA more and more;
 - 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: solankisaksham1998@gmail.com;
