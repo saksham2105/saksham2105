@@ -25,8 +25,8 @@
 
 
 
-- :telescope: I'm currently working as a Software Engineer at MobiKwik in Payments Team;
-I've worked on many big projects including health care service corporation Diginext App
+- :telescope: I'm currently working as a Software Engineer at Amazon in Fire TV Team;
+I've worked on many big projects including health care service corporation Diginext App worked on Mobikwik payments Backend
 - :hourglass_flowing_sand:Working on a Project [Codify](https://github.com/saksham2105/codify) and practicing DSA more and more;
 - 💬 I love to contribute in Open source projects and connecting with different people:);
 - 📫 How to reach me: solankisaksham1998@gmail.com;
