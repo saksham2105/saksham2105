@@ -10,7 +10,7 @@
 <a href="https://twitter.com/fiend_op">
   <img align="left" alt="Saksham Solanki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saksham-solanki-248691174/">
+<a href="https://www.linkedin.com/in/saksham-solanki-%F0%9F%87%AE%F0%9F%87%B3-248691174//">
   <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/capable_saksham_/">
