@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/saksham-solanki-%F0%9F%87%AE%F0%9F%87%B3-248691174//">
   <img align="left" alt="Saksham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/capable_saksham_/">
+<a href="https://www.instagram.com/saksham2205_/">
   <img align="left" alt="Saksham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://saksham2105.github.io/portfolio/">
