@@ -25,7 +25,8 @@
 
 
 
-- :telescope: I'm currently working as a Software Engineer at Amazon in Fire TV Team;
+- :telescope: I'm currently working as a Software Engineer at Orkes,
+- I have previously worked in company like Amazon in FireTV Team
 I've worked on many big projects including health care service corporation Diginext App worked on Mobikwik payments Backend
 - :hourglass_flowing_sand:Working on a Project [Codify](https://github.com/saksham2105/codify) and practicing DSA more and more;
 - 💬 I love to contribute in Open source projects and connecting with different people:);
